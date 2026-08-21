@@ -18,7 +18,7 @@ Full Stack AI Engineer • AI Builder • Backend Enthusiast
 
 ## 🎮 CURRENT STATUS
 
-```text
+```text id="bo6uyn"
 ╔══════════════════════════════════════════════╗
 ║              SYSTEM STATUS                   ║
 ╠══════════════════════════════════════════════╣
@@ -40,6 +40,16 @@ Full Stack AI Engineer • AI Builder • Backend Enthusiast
 * 💬 Ask me about **Full Stack Development**
 * 🤝 Open to collaborating on **AI & Full Stack projects**
 * 📫 Reach me at **[hspatil000@gmail.com](mailto:hspatil000@gmail.com)**
+
+---
+
+## 🕐 CURRENT TIME
+
+<p align="center">
+
+**🇮🇳 INDIA • ASIA/KOLKATA**
+
+</p>
 
 ---
 
@@ -65,15 +75,6 @@ Full Stack AI Engineer • AI Builder • Backend Enthusiast
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,firebase,docker,git,github,postman,linux,vscode&perline=10" />
-</p>
-
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patilharshal9104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilharshal9104&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -138,7 +139,7 @@ An AI-powered full-stack interview platform designed to simulate interviews and 
 
 ## 🧠 WHAT I'M INTO
 
-```text
+```text id="3tbnm8"
 AI & LLMs              ████████████████████░░  90%
 Full Stack Development █████████████████████░  95%
 Backend Engineering    ██████████████████░░░░  85%
