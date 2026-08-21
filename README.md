@@ -119,26 +119,6 @@ An AI-powered full-stack interview platform designed to simulate interviews and 
 
 ---
 
-## 🧠 WHAT I'M INTO
-
-```text id="3tbnm8"
-AI & LLMs              ████████████████████░░  90%
-Full Stack Development █████████████████████░  95%
-Backend Engineering    ██████████████████░░░░  85%
-System Design          ███████████████░░░░░░░  70%
-DevOps                 █████████████░░░░░░░░░  60%
-```
-
----
-
-## 💡 DEVELOPER QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
 
 ### ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
