@@ -1,242 +1,163 @@
-# <p align="center">⚡ HARSHAL PATIL ⚡</p>
+<h1 align="center">⚡ HARSHAL PATIL ⚡</h1>
 
 <h3 align="center">
-Full Stack AI Engineer • Building AI Products • Backend Enthusiast
+Full Stack AI Engineer • AI Builder • Backend Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer;Building+Intelligent+Applications;MERN+%7C+TypeScript+%7C+Python;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer;Building+Intelligent+Applications;MERN+%7C+TypeScript+%7C+Python;Always+Learning+%F0%9F%9A%80" />
 </p>
-
----
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=patilharshal9104&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/patilharshal9104?style=for-the-badge&logo=github&color=00f7ff"/>
-
-<img src="https://img.shields.io/github/stars/patilharshal9104?affiliations=OWNER&style=for-the-badge&logo=github&color=00f7ff"/>
-
+  <img src="https://komarev.com/ghpvc/?username=patilharshal9104&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/patilharshal9104?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F7FF" />
+  <img src="https://img.shields.io/github/stars/patilharshal9104?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=00F7FF" />
 </p>
 
 ---
 
-# 🎮 SYSTEM STATUS
+## 🎮 CURRENT STATUS
 
 ```text
-█████████████████████████████
-
-Name      :: Harshal Patil
-Role      :: Full Stack AI Engineer
-Focus     :: AI • Backend • Web Apps
-Location  :: India 🇮🇳
-Status    :: Building cool things...
-Level     :: Grinding 🚀
-
-█████████████████████████████
+╔══════════════════════════════════════════════╗
+║              SYSTEM STATUS                   ║
+╠══════════════════════════════════════════════╣
+║  NAME       :: Harshal Patil                 ║
+║  ROLE       :: Full Stack AI Engineer        ║
+║  FOCUS      :: AI • Backend • Web Apps       ║
+║  LOCATION   :: India 🇮🇳                       ║
+║  STATUS     :: Building & Learning 🚀        ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# ⚔️ Current Mission
+## ⚔️ CURRENT MISSION
 
-🔹 Building an **AI Interview Platform**
-
-🔹 Learning scalable backend architecture
-
-🔹 Exploring AI Agents & LLM applications
-
-🔹 Open to collaborations on AI + Full Stack projects
+* 🔭 Currently building **[AI Interview Platform](https://interview-ai-full-stack-mjwl.onrender.com/)**
+* 🌱 Currently learning **Backend Frameworks & Scalable Architecture**
+* 🤖 Exploring **AI Agents, LLM Applications & AI-powered Products**
+* 💬 Ask me about **Full Stack Development**
+* 🤝 Open to collaborating on **AI & Full Stack projects**
+* 📫 Reach me at **[hspatil000@gmail.com](mailto:hspatil000@gmail.com)**
 
 ---
 
-# 🌐 Connect
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-
-<a href="https://linkedin.com/in/harshal-patil-230ab5316">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://discord.gg/racdrsDU2">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-<a href="mailto:hspatil000@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://linkedin.com/in/harshal-patil-230ab5316">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/racdrsDU2">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hspatil000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 </p>
 
 ---
 
-# ⚡ Tech Arsenal
+## 🧰 TECH ARSENAL
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,firebase,docker,git,github,postman,linux,vscode&perline=10"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,firebase,docker,git,github,postman,linux,vscode&perline=10" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GITHUB STATS
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=patilharshal9104&theme=algolia&no-frame=true&row=1&column=7"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patilharshal9104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilharshal9104&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=patilharshal9104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilharshal9104&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=patilharshal9104&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=patilharshal9104&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilharshal9104&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilharshal9104&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/patilharshal9104/patilharshal9104/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 PROFILE INSIGHTS
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/patilharshal9104/patilharshal9104/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** You'll need to enable the GitHub Action that generates the snake animation.
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilharshal9104&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilharshal9104&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patilharshal9104&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patilharshal9104&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patilharshal9104&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patilharshal9104&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patilharshal9104&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patilharshal9104&theme=tokyonight&utcOffset=5.5"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patilharshal9104&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patilharshal9104&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 FEATURED PROJECT
 
 ### 🤖 AI Interview Platform
 
-> Full Stack AI Interview Simulator with AI Feedback
+An AI-powered full-stack interview platform designed to simulate interviews and provide intelligent feedback.
 
 **Tech Stack**
 
-`React` `Node.js` `MongoDB` `Express` `AI`
+`React` `Node.js` `Express` `MongoDB` `AI`
 
-🔗 https://interview-ai-full-stack-mjwl.onrender.com/
-
----
-
-### 💬 Add your other best repositories here
-
-Example:
-
-* AI SaaS
-* Portfolio Website
-* Chat Application
-* DevOps Automation
-* Backend APIs
-
----
-
-# 📡 Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+<p>
+  🔗 <a href="https://interview-ai-full-stack-mjwl.onrender.com/">Live Demo</a>
 </p>
 
 ---
 
-# 🎵 Spotify (Optional)
+## 🧠 WHAT I'M INTO
 
-```md
-If you use Spotify you can add:
-
-https://github.com/kittinan/spotify-github-profile
+```text
+AI & LLMs              ████████████████████░░  90%
+Full Stack Development █████████████████████░  95%
+Backend Engineering    ██████████████████░░░░  85%
+System Design          ███████████████░░░░░░░  70%
+DevOps                 █████████████░░░░░░░░░  60%
 ```
 
 ---
 
-# ⚡ Fun Animation
+## 💡 DEVELOPER QUOTE
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:5B00FF&height=120&section=footer"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-# 💀 Terminal
+<p align="center">
 
-```bash
-> whoami
+### ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
 
-Harshal Patil
-
-> role
-
-Full Stack AI Engineer
-
-> currently
-
-Building AI applications
-
-> passion
-
-Turning coffee ☕ into scalable software 🚀
-
-> status
-
-Always shipping.
-```
+</p>
